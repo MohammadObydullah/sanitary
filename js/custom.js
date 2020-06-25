@@ -56,7 +56,7 @@ $(function () {
     });
 
 
-    
+      new WOW().init();
 
 
     // $('.mini-slider').slick({
@@ -261,7 +261,7 @@ $(function () {
 
 
   //============== wow js=================
-    new WOW().init();
+  
 
    
    $('.partner-slider').slick({

@@ -46,7 +46,11 @@ p {
         margin-left: -20px;
     }
 
-
+    .navbar-expand-lg .navbar-nav .nav-link {
+	
+	font-size: 14px;
+	
+}
     /*=======================banner part start===========================*/
 
     .ban-img {
@@ -280,7 +284,12 @@ p {
         width: 200px;
 
     }
+        
 
+      .navbar ul li ul li a {
+	   color: #fff;
+	
+}
 
 
     /*==================================banner part start================================*/
@@ -921,6 +930,10 @@ p {
 	overflow: hidden;
 }
 
+ .navbar ul li ul li a {
+	   color: #fff;
+	
+}
 
 }
 
@@ -1012,6 +1025,10 @@ p {
         width: 200px;
 
     }
+  .navbar ul li ul li a {
+	   color: #fff;
+	
+}
 
 
 
