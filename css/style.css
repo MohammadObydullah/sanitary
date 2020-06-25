@@ -1,6 +1,7 @@
 * {
     margin: 0;
-    padding: ;
+    padding:0;
+    outline:0;
 }
 
 a {
@@ -288,7 +289,7 @@ p {
     border:0;
 }
 
-.search button:focus {
+.search input:focus {
     outline: 0;
     border:0;
 }
@@ -925,7 +926,7 @@ p {
 
 
 
-.p-left1 {
+/*.p-left1 {
     position: absolute;
     top: 8.5%;
     right: 10%;
@@ -954,7 +955,7 @@ p {
     z-index: 11;
     cursor: pointer;
 }
-
+*/
 /*==========================tabs part start=========================*/
 
 .project-1 {
@@ -2667,7 +2668,9 @@ p {
     border: 1px solid #cebfbf;
     padding-left: 20px;
 }
-
+.dealer-form input:focus{
+	outline: 0;
+}
 .dealer-form button {
     /* background: 0; */
     border: 1px solid #e81a46;

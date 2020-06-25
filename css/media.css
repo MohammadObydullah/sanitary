@@ -234,7 +234,7 @@ p {
 
     .navbar ul li ul {
         position: absolute;
-        background: rgba(0, 0, 0);
+        background:#222;
         width: 200px;
         color: #fff;
         left: 120px;
@@ -619,7 +619,7 @@ p {
 
     .navbar ul li ul {
         position: absolute;
-        background: rgba(0, 0, 0);
+        background:#222;
         width: 200px;
         color: #fff;
         left: 120px;
@@ -739,7 +739,7 @@ p {
         margin-bottom: 10px;
     }
 
-    .p-right1 {
+    /*.p-right1 {
         top: 8.5%;
         right: 7%;
     }
@@ -748,7 +748,7 @@ p {
         top: 8.5%;
         right: 17%;
     }
-
+*/
     .project-item img {
 
         padding-left: 0px;
@@ -981,7 +981,7 @@ p {
 
     .navbar ul li ul {
         position: absolute;
-        background: rgba(0, 0, 0);
+        background: #222;
         width: 200px;
         color: #fff;
         left: 120px;
